@@ -20,11 +20,6 @@ Le résultats final de l'affichage est comme ceci
 ---------------page d'acceuill pour l'admin 
 <img width="528" alt="Capture d’écran 2022-03-31 121533" src="https://user-images.githubusercontent.com/82716367/161032964-39ab2649-e9f7-430c-bfcc-24dbc18a88c2.png">
 
-- 
-<img width="943" alt="SUR" src="https://user-images.githubusercontent.com/82716367/161032958-b5e2d51f-2882-44d3-bffb-422d27f6af83.png">
-<img width="947" alt="SUPP" src="https://user-images.githubusercontent.com/82716367/161032960-dbe870b7-d8e0-47ff-bb91-d7e2ef5ec459.png">
-<img width="938" alt="2" src="https://user-images.githubusercontent.com/82716367/161032966-590e9b2a-838a-4c52-b0fc-d938f705dd6a.png">
-
 
 ----------------page d'acceuil pour utilisateur normal 
 <img width="949" alt="capture 1" src="https://user-images.githubusercontent.com/82716367/161032973-d05e0777-e668-4616-bedb-5b7d0f48c372.png">
