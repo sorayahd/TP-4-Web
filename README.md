@@ -17,27 +17,6 @@ Le résultats final de l'affichage est comme ceci
 
 
 
------------------------------formulaire de connexion pour l'admin disponible à l'adresse:login.php-----------------------
-
- <img width="954" alt="login" src="https://user-images.githubusercontent.com/82716367/161032954-a927b620-a7b6-44c2-a672-c6df79f124e2.png">
- 
- 
- -------------------------------Pagination----------------
- 
-<img width="938" alt="2" src="https://user-images.githubusercontent.com/82716367/161034341-4d5d0fc7-8cf6-46fd-870e-d09cffc29e81.png">
-
-
-
-
---------------------------page d'acceuill pour l'admin  avec boutton supprimer ,pagination et nav bar disponible à l'adresse Admin.php------------------------------
-
-<img width="947" alt="SUPP" src="https://user-images.githubusercontent.com/82716367/161033678-3f73d3da-454f-449f-9bd8-ef2221676b96.png">
-
-
-
--------------------------pop up qui s'affiche pour confirmer la suppression de l'image coté admin------------------
- 
-<img width="943" alt="SUR" src="https://user-images.githubusercontent.com/82716367/161032958-b5e2d51f-2882-44d3-bffb-422d27f6af83.png">
 
 
 
@@ -51,5 +30,39 @@ Le résultats final de l'affichage est comme ceci
 
 
 <img width="298" alt="capture2" src="https://user-images.githubusercontent.com/82716367/161034600-f1fd9ef5-e918-4277-acbd-ba7dbfa922ab.png">
+
+
+
+une fois qu'on clique sur admin on tombre sur le formulaire suivant pour se connecter en tant que admin:
+
+
+
+ <img width="954" alt="login" src="https://user-images.githubusercontent.com/82716367/161032954-a927b620-a7b6-44c2-a672-c6df79f124e2.png">
+ 
+ 
+ --------------------------page d'acceuill pour l'admin  avec boutton supprimer ,pagination et nav bar disponible à l'adresse Admin.php------------------------
+ 
+ 
+
+<img width="947" alt="SUPP" src="https://user-images.githubusercontent.com/82716367/161033678-3f73d3da-454f-449f-9bd8-ef2221676b96.png">
+ 
+ 
+ 
+ 
+ -------------------------pop up qui s'affiche pour confirmer la suppression de l'image coté admin------------------
+ 
+<img width="943" alt="SUR" src="https://user-images.githubusercontent.com/82716367/161032958-b5e2d51f-2882-44d3-bffb-422d27f6af83.png">
+
+
+
+
+ -------------------------------Pagination----------------
+ 
+<img width="938" alt="2" src="https://user-images.githubusercontent.com/82716367/161034341-4d5d0fc7-8cf6-46fd-870e-d09cffc29e81.png">
+
+
+
+
+
 
 
