@@ -14,11 +14,15 @@ ne permet pas l'ajout d'images (c'est comme ca que ca été demandé par le prof
 
 
 Le résultats final de l'affichage est comme ceci
---formulaire de connexion pour l'admin disponible à l'adresse:login.php
+--formulaire de connexion pour l'admin disponible à l'adresse:login.php-----------------------
 - <img width="954" alt="login" src="https://user-images.githubusercontent.com/82716367/161032954-a927b620-a7b6-44c2-a672-c6df79f124e2.png">
 
----------------page d'acceuill pour l'admin 
-<img width="528" alt="Capture d’écran 2022-03-31 121533" src="https://user-images.githubusercontent.com/82716367/161032964-39ab2649-e9f7-430c-bfcc-24dbc18a88c2.png">
+
+
+---------------page d'acceuill pour l'admin  avec boutton supprimer ,pagination et nav bar-----------------------------------------
+
+<img width="947" alt="SUPP" src="https://user-images.githubusercontent.com/82716367/161033678-3f73d3da-454f-449f-9bd8-ef2221676b96.png">
+
 
 
 ----------------page d'acceuil pour utilisateur normal 
