@@ -67,6 +67,7 @@ Le résultats final de l'affichage est comme ceci
 
 
 - Pagination: 
+- On peut voir le Zoom qui s'effectue en passant la souris sur l'image
 <img width="938" alt="2" src="https://user-images.githubusercontent.com/82716367/161034341-4d5d0fc7-8cf6-46fd-870e-d09cffc29e81.png">
 
 
